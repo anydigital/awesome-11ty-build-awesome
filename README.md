@@ -75,6 +75,10 @@ General guides:
 - `2022` [11ty Second 11ty by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrNiBBN-wn2BJ11OHiBuC1n)
 - `2019` [Eleventy (11ty) Tutorials by Bryan Robinson on Youtube](https://www.youtube.com/playlist?list=PLOSLUtJ_J3roi5Eb3v-SkUV3nfGIyc_LF)
 
+Images:
+
+- `2026` [Optimizing Images with Eleventy on Netlify](https://kittygiraudel.com/2026/05/05/optimizing-images-with-11ty-on-netlify/) `@kittygiraudel.com`
+
 Templating:
 
 - `2026` [*Bl*ades HTML](https://blades.ninja/html/) — Generic Nunjucks/Liquid templates for 11ty/Build Awesome, Jekyll, Shopify, etc.
